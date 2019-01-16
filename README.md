@@ -1,0 +1,2 @@
+# belajarlah.js
+belajarlah
